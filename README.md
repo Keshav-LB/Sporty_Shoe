@@ -17,7 +17,7 @@
 
 2. Run the Spring Boot application: ShoeShopAdminApplication.java
 
-3. Open a web browser for the app: http://localhost:2023
+3. Open a web browser for the app: http://localhost:9898
 
 4. Log in using one of the accounts (These are all configurable in the "SecurityConfig.java" file.)
 
